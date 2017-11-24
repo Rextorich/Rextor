@@ -20,6 +20,7 @@ public class Ejemplo {
         // TODO code application logic here
         
         JOptionPane.showMessageDialog(null, "Hoola");
+        JOptionPane.showMessageDialog(null, "Hoola Richard");
     }
     
 }
